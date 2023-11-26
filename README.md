@@ -1,2 +1,2 @@
 # Oauth
-User authentication using Flask
+Development of user authentication framework using Flask
